@@ -1,0 +1,13 @@
+.title {
+  font-size: 65px;
+  font-weight: 500;
+  margin-bottom: 40px;
+  color: rgb(5, 125, 125);
+}
+
+.description {
+  font-size: 20x;
+  font-style: italic;
+  margin-bottom: 40px;
+  color: yellowgreen;
+}

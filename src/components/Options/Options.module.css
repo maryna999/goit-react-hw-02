@@ -1,0 +1,23 @@
+.wrap {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  justify-content: center;
+}
+
+.btnG {
+  background-color: rgb(3, 81, 0);
+}
+
+.btnB {
+  background-color: rgb(203, 42, 42);
+}
+
+.btnN {
+  background-color: gray;
+}
+
+.btnR {
+  background-color: aliceblue;
+  color: black;
+}
